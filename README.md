@@ -11,5 +11,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <a href="https://github.com/bimarenaldi">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimarenaldi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimarenaldi&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimarenaldi&theme=algolia" />
+
 </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimarenaldi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
