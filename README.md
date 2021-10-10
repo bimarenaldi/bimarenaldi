@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media2.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="300"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bima Renaldi</h1>
-<h3 align="center">I'm a Web Application Developer based in Malang. I have unwavering passion and energy for people and customer experience.</h3>
+<h3 align="center"><p>I'm a Web Application Developer based in Malang, East Java.</p><p> I have unwavering passion and energy for people and customer experience.</p></h3>
 
 
 ## 🙋‍♂️ About Me
