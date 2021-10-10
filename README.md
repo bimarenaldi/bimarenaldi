@@ -47,13 +47,13 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+  <br/><p align="center">
     <a href="https://github.com/bimarenaldi/github-readme-stats"><img alt="Bima Renaldi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimarenaldi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/bimarenaldi/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bima Renaldi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bimarenaldi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a></p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
 <br/>
