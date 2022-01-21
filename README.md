@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[PT. Maestro Manajemen Nusantara](http://maestromn.com/)**
+- 🔭 I’m currently working on **[Sekawan Media](https://www.sekawanmedia.co.id/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
