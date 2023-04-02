@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on **[Sekawan Media](https://www.sekawanmedia.co.id/)**
 
+- 🔭 I’m currently build **[Bramara](https://www.bramara.id/)** with my awesome team
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Webiste](https://bima-portfolio.web.app/)**
