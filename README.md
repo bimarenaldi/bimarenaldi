@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Sekawan Media](https://www.sekawanmedia.co.id/)**
+- 🔭 I’m currently working on **[Island Media](https://islandmedia.co.id/)**
 
 - 🔭 I’m currently build **[Bramara](https://www.bramara.id/)** with my awesome team
 
