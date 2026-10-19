@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Webiste](https://bima-portfolio.web.app/)**
+- 👨‍💻 All of my projects are available at **[My Webiste](https://bimarenaldi.my.id/)**
 
 - 📫 How to reach me **bimarenaldi09h@gmail.com**
 
